@@ -1,5 +1,6 @@
 # About Me:
-Backend Developer, Devops<br>Languages Passionate - Node.js/Express, Vue3, Angular,<br>with dark past in Java.
+Backend Developer, Devops<br>Languages Passionate - Node.js/Express, Vue3, React, Angular,<br>with dark past in Java.
+Selfhosting
 
 
 ## Socials:
