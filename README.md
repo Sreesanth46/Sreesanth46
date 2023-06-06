@@ -1,5 +1,5 @@
 # About Me:
-Backend Developer, Devops, Selfhosting<br>Languages Passionate - Node.js/Express, Vue3, React, Angular,<br>with dark past in Java.
+Backend Developer, Devops, <br>-Selfhosting -Docker -Nginx<br>Languages Passionate - Node.js/Express, Vue3, React, Angular,<br>with dark past in Java.
 
 
 ## Socials:
