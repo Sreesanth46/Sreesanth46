@@ -1,5 +1,5 @@
 # About Me:
-### Backend Developer | Devops <br>
+### FullStack Developer | Devops <br>
 - Selfhosting
 - Docker
 - Nginx
