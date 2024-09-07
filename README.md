@@ -4,7 +4,7 @@
 - Docker
 - Nginx
 <br>
-Languages Passionate - Node.js/Express, Vue3, React, Angular,<br>with dark past in Java.
+Languages Passionate - Python (Django, FastAPI), Javascript/Typescript(Vue3, Next/React, Angular), ,<br>with dark past in Java.
 
 
 ## Socials:
